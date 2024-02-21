@@ -5,3 +5,7 @@
 ``` python
 print("Hello, world!")
 ```
+
+- [ ] first day in Github
+- [ ] first week in Github
+- [ ] certification!
